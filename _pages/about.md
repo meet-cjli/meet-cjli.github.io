@@ -6,7 +6,7 @@ subtitle: <a href='#'>Penn State</a>. State College, PA.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sharkfin.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Satet College, PA, 16803</p>
