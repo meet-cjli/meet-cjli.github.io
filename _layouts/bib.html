@@ -230,5 +230,10 @@
             {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
           </div>
           {%- endif %}
+          {% if entry.award %}
+          <p><strong>Award: </strong> {{ entry.award }}</p>
+          {% endif %}
+            
+      
         </div>
       </div>
