@@ -9,7 +9,7 @@ profile:
   image: sharkfin.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Satet College, PA, 16803</p>
+    <p>State College, PA, 16803</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
