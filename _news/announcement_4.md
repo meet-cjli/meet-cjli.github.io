@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was invited to serve as a reviewer for [ICLR '24](https://iclr.cc/)! :tada::tada::tada:
+I was invited to serve as a reviewer for [ICLR '24](https://iclr.cc/)!
