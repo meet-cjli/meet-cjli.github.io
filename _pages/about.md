@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Penn State</a>. State College, PA.
+subtitle: 
 
 profile:
   align: right
   image: sharkfin.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>State College, PA, 16803</p>
+    <p>Stony Brook, NY, 11790</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
