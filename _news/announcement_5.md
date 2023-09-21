@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was invited to serve as a reviewer for [Backdoors in Deep Learning @ NeurIPS '23](https://neurips2023-bugs.github.io/)!
+I was invited to serve as a PC Membe for [Backdoors in Deep Learning @ NeurIPS '23](https://neurips2023-bugs.github.io/)!
