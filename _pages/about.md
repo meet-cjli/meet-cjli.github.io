@@ -16,8 +16,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a third-year Ph.D. student at Penn State, supervised by [Dr. Ting Wang](https://alps-lab.github.io/). 
-Before joining Penn State, I obtained my Bachelor's degree from Tianjin University and my Master's degree from Zhejiang University (supervised by [Dr. Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html)). My research interests include adversarial machine learning, large language models, and deepfake detection.
+
+
+I am currently a third-year Ph.D. student at Stony Brook University, supervised by [Dr. Ting Wang](https://alps-lab.github.io/).  Prior to transferring to Stony Brook in 2023, I was a Ph.D. candidate at Penn State. I earned my Bachelor's degree from Tianjin University and my Master's degree from Zhejiang University (supervised by [Dr. Shouling Ji](https://nesa.zju.edu.cn/webpage/crew/jsl.html)), under the guidance of Dr. Shouling Ji. My research interests encompass adversarial machine learning, large language models, and deepfake detection.
 
 
 
